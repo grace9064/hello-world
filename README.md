@@ -1,2 +1,3 @@
 # hello-world
-This is my very first repository.
+
+Grace here, learning programming by doing hobby projects. 
